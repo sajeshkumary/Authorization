@@ -16,6 +16,7 @@
   <ItemGroup>
     <Reference Include="ServiceBookingLibrary">
       <HintPath>..\ServiceBookingLibrary\bin\Debug\net6.0\ServiceBookingLibrary.dll</HintPath>
+      <Private>True</Private>
     </Reference>
   </ItemGroup>
 
